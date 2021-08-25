@@ -6,7 +6,7 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ahora?!");
+            Console.WriteLine("Hello!");
         }
     }
 }
