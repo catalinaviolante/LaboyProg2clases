@@ -1,0 +1,12 @@
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\catalina.violante\Desktop\MisRepositorios\Clase3\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
